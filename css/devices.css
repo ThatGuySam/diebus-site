@@ -104,6 +104,7 @@
 		width: calc(100% + 40px);
 		margin: 0 0 0 -20px;
 		-webkit-overflow-scrolling: touch;
+		overflow-y: hidden;
 	}
 	.centerdevices .iphoneandroid .iphone {
 		transform: none;
