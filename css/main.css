@@ -283,6 +283,7 @@ p.paragraph {
 }.feature4 {
 	padding: 90px 0;
 	border-bottom: 1px solid rgba(0,0,0,.1);
+	overflow: hidden;
 }
 @media (max-width: 900px) {
 	.feature4 .sidedevices {
