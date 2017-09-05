@@ -1,11 +1,11 @@
 /*neutral*/
 * {
-	font-family: 'karla', sans-serif;
+	font-family: 'TruenoRegular', sans-serif;
 }.footer,
 .header {
 	background: linear-gradient(to right bottom,#3b1f5d,#633c84,#a25fa7,#b672ba);
 	color: white;
-}@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+}
 *,
 *:before,
 *:after {
@@ -20,6 +20,7 @@ body {
   font-weight: 100;
   font-size: 50px;
   line-height: 68px;
+	font-family: 'TruenoBoldItalic', sans-serif;
 }
 @media (max-width: 900px) {
 .heading {
@@ -31,6 +32,7 @@ body {
   font-size: 30px;
   line-height: 40px;
   font-weight: 500;
+	font-family: 'TruenoBoldItalic', sans-serif;
 }
 @media (max-width: 900px) {
   .subheading {
